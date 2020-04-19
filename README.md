@@ -8,13 +8,27 @@ Los tutoriales que hago, los hago utilizando técnicas sencillas, para que todas
 ¡Llena de colores tus días practicando un poquito cada día! Te aseguro que aprenderás mucho.  =)
 
 ---
+## Descargar las Canciones en PDF
 
-## Redes Sociales
+Para descargar las canciones con letras y acordes (PDF) haga clic aqui:  
+https://github.com/lydiaukelele/tutoriales/tree/master/LetrasConAcordes  
+
+(Obs: seleccione la canción y haga clic en 'Download')
+
+---
+
+## Canal Youtube
+
+Si quieres seguir la canción junto con el tutorial original, ve a mi canal de Youtube:
 
 🔴 Youtube: https://www.youtube.com/c/LydiaUkelele  
+
+---
+
+## Redes Sociales
 
 📘 Facebook: https://www.facebook.com/LydiaUkelele/
 
 📷 Instagram: https://www.instagram.com/lydiaukelele/
 
-✉️ Telegram (channel): https://t.me/LydiaUkelele
+📣 Telegram (channel): https://t.me/LydiaUkelele
